@@ -59,7 +59,7 @@ Triangle, Diamond, Square, Circle, Star, Spiral
 3. **Power-ups**: Activate when landing on their cells
 4. **Game End**: When no valid moves remain or board is full
 
-##Demo Video
+## Demo Video
 https://drive.google.com/file/d/1tKr212zg_K-rFmDzka13ljMwsnhIwbSq/view?usp=sharing
 
 ## Conclusion
